@@ -1,0 +1,11 @@
+.formLabel {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.formInput {
+  width: 200px;
+}

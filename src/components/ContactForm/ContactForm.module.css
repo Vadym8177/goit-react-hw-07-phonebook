@@ -1,0 +1,25 @@
+.formLabel {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.formBox {
+  border: 1px solid black;
+  padding: 10px;
+  width: 300px;
+}
+
+.formBtn {
+  background-color: #f5f5f5;
+  border: transparent;
+  border-radius: 4px;
+
+  padding: 2px 6px;
+  cursor: pointer;
+}
+.formInput {
+  width: 200px;
+}

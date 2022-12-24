@@ -1,0 +1,13 @@
+.item {
+  margin-left: 0;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.itemBtn {
+  margin-left: 10px;
+  background-color: #f5f5f5;
+  border: transparent;
+  border-radius: 4px;
+  cursor: pointer;
+}
